@@ -9,7 +9,7 @@ Driving innovation at the intersection of computational biology and life science
 ## 🧬 About Me
 
 I am employed in the field of bioinformatics and have a passion for the automation and enhancement of NGS (Multi-omics) operations and computer-aided drug discovery (CADD). I am interested in conducting research that can be replicated and will provide the scientific community with robust, scalable processes. I concentrate on the development of robust, scalable pipelines that facilitate the replication of research.  
-I have worked with multi-omics data in oncology, cardiovascular illnesses, and neurodegenerative disorders. I have combined genomics, transcriptomics, and epigenomics to get therapeutically useful information. I've also contributed to riverine metagenomic research to investigate the ecology of microorganisms and their potential benefits to aquatic ecosystems.
+I have worked with multi-omics data in oncology, cardiovascular illnesses, and neurodegenerative disorders. I have combined genomics, transcriptomics, and epigenomics to get therapeutically useful information. I've also contributed to riverine metagenomics research to investigate the ecology of microorganisms and their potential benefits to aquatic ecosystems.
 
 ---
 
