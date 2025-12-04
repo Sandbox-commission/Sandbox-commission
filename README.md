@@ -2,7 +2,7 @@
 
 ## 👨‍🔬 Profession
 **Scientist (Bioinformatics)**  
-Driving innovation at the intersection of computational biology and life sciences.
+Hacking life's code using the nexus of bioinformatics : Where algorithms decode biology's deepest secrets
 
 ---
 
