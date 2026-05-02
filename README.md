@@ -17,7 +17,7 @@
 
 <img align="right" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandbox-commission&layout=compact&theme=dark&bg_color=0d1117&border_color=00d4aa&title_color=00d4aa&text_color=c9d1d9&hide_border=false" />
 
-### `> whoami`
+### `whoami`
 
 ```bash
 Name     : Parameswar
@@ -34,7 +34,7 @@ I work at the intersection of **algorithms and biology** — building robust, sc
 
 ---
 
-### `> ls skills/`
+### `skills`
 
 <div align="center">
 
@@ -68,7 +68,7 @@ I work at the intersection of **algorithms and biology** — building robust, sc
 
 ---
 
-### `> cat current_projects.log`
+### `current_projects`
 
 ```
 [ACTIVE]  Reproducible Nextflow/nf-core workflows for WES • WGS • WGBS • RNA-Seq • Metagenomics
@@ -80,7 +80,7 @@ I work at the intersection of **algorithms and biology** — building robust, sc
 
 ---
 
-### `> cat stats/`
+### `stats`
 
 <div align="center">
 
@@ -97,7 +97,7 @@ I work at the intersection of **algorithms and biology** — building robust, sc
 
 ---
 
-### `> ls research_domains/`
+### `research_domains`
 
 | Domain | Omics Applied | Output |
 |--------|--------------|--------|
@@ -108,7 +108,7 @@ I work at the intersection of **algorithms and biology** — building robust, sc
 
 ---
 
-### `> cat connect.sh`
+### `connect via`
 
 <div align="center">
 
