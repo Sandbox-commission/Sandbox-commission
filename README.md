@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=00D4AA&center=true&vCenter=true&width=700&height=55&lines=🧬+Decoding+Life+with+Algorithms;🔬+NGS+%7C+Multi-Omics+%7C+Variant+Calling;💊+CADD+%7C+Molecular+Dynamics+%7C+Drug+Discovery;⚡+Nextflow+%7C+nf-core+%7C+HPC+%7C+Docker;🌊+Open+Science+%7C+Reproducible+Pipelines)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=00D4AA&center=true&vCenter=true&width=700&height=55&lines=🧬+Decoding+Life+with+Algorithms;🔬+Next+Generation+Sequencing+%7C+Multi-Omics;💊+CADD+%7C+Molecular+Dynamics+%7C+Drug+Discovery;🛡️+Neoantigens+%7C+Monoclonal+Antibodies;⚡+Nextflow+%7C+nf-core+%7C+HPC+%7C+Docker+%7C+Singularity/Apptainer;🌊+Open+Science+%7C+Reproducible+Pipelines)](https://git.io/typing-svg)
 
 <br/>
 
